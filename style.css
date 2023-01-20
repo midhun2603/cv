@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.head {
+    font-size: 2.5rem;
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+    margin-top: 0%;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    margin: 50px auto 0 auto;
+    color: #a8d0eb;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    color: #a942e0;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #54BAB9;
+}
+
+.dotted {
+    border: dotted #94e5a4 6px;
+    border-bottom: none;
+    width: 4%;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin :0;
+
+}
+
+.top-cloud {
+    position:absolute;
+    right: 350px;
+    top:50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 350px;
+
+}
+
+.bottom-container {
+    padding-top: 100px;
+    background-color: #E9DAC1;
+    padding-bottom: 20px;
+
+}
+
+
+.photo {
+    border-radius: 35%;
+    width: 15%;
+    padding-top: 30px;
+}
+
+a {
+    color: #54BAB9;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;   
+    text-align: left;
+}
+
+.myskill {
+    line-height: 2.5;
+}
+
+.percent {
+    color: black;
+    font-size: small;
+}
+
+.graduate {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.code {
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #54BAB9;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #E9DAC1;
+    text-decoration: none;
+  }
+
+.footer-link {
+    padding: 0 20px 0 20px;
+}
+
+.contact-me {
+    padding: 70px 0;
+}
+
+.copy-right {
+    font-size: 70%;
+}
+
+.car-img {
+    width: 100%;
+}
